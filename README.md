@@ -21,7 +21,7 @@ Then, install the required dependencies:
 pip install -r requirements.txt
 ```
 
-## Configuration
+## Setup
 Create a .env file in the project root with your database connection details, for example:
 
 DB_HOST=localhost<br>
